@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1026944294890",
+    "firebase_url": "https://cikmanfyp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cikmanfyp",
+    "storage_bucket": "cikmanfyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026944294890:android:05efffdc5eb9d5c8591c93",
+        "android_client_info": {
+          "package_name": "com.example.fypcikman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUiXk9aQKwadf8qwzye5FK2pC3Qfr8Sno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
